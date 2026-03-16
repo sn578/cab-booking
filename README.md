@@ -1,1 +1,4 @@
-# cab-booking
+{
+  "singleQuote": true,
+  "jsxSingleQuote": true
+}
